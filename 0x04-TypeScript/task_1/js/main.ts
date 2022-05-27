@@ -14,8 +14,8 @@ interface Directors extends Teacher {
 const teacher1: Teacher = {
     firstName: 'John',
     lastName: 'Doe',
-    fullTimeEmployee: true,
     location: 'London',
+    fullTimeEmployee: true,
     contract: false,
 }
 
